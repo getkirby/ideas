@@ -2,7 +2,7 @@
 
 This is the backlog of ideas and feature requests that have been created in the last 2 years. 
 
-We've now moved to a new feedback platform on: **https://feedback.getkirby.com**
+We've now moved to a new feedback platform on: **https://feedback.getkirby.com**   
 You can post new ideas there or vote on existing ideas from other users. 
 
 ## Help us move your old ideas
