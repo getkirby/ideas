@@ -1,11 +1,12 @@
 # Ideas for Kirby 3
 
-Add your ideas for features and enhancements as [new issue](https://github.com/getkirby/ideas/issues/new) to this repository:   
-https://github.com/getkirby/ideas/issues
+This is the backlog of ideas and feature requests that have been created in the last 2 years. 
 
-## Vote for ideas
-If you like an existing idea, please add a :+1: reaction to this idea's issue.  
-Those votes will help us as feedback to see which ones are the [most requested ideas](https://github.com/getkirby/ideas/issues?utf8=✓&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1).
+We've now moved to a new feedback platform on: **https://feedback.getkirby.com**
+You can post new ideas there or vote on existing ideas from other users. 
+
+## Help us move your old ideas
+If you already posted an idea here, please repost it on https://feedback.getkirby.com and close the issue here with a link to the new post if possible.
 
 ## Bug reports
 If you find a bug, please report it [here](https://github.com/getkirby/kirby/issues).  
